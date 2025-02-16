@@ -15,6 +15,7 @@ document.querySelector('#close-login-form').onclick = () =>{
 }
 window.onscroll = () =>{
 
+<<<<<<< HEAD
   menu.classList.remove('fa-times');
   navbar.classList.remove('active');
 
@@ -130,3 +131,5 @@ var swiper = new Swiper(".review-slider", {
   },
 });
 
+=======
+>>>>>>> ac77487438fef447f31492440b82f2b8b53a96f7
